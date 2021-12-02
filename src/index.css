@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://w.wallhaven.cc/full/0p/wallhaven-0p51q3.png");
+  background-color: #202020;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100vh;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
